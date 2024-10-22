@@ -1,0 +1,3 @@
+Dávid csinálta a csapattagok leírást, a feladat felosztását, a célt, a szoftverek nevét, a nyelvek nevét, a funkciót és az egyik látványtervet
+Márkó csinálta a szoftverek jelentésének leirását es az egyik látványtervet
+Szilárd leírta a nyelveknek a jelentését
